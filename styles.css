@@ -1,0 +1,31 @@
+.title {
+  font-family: "Fira Code", monospace;
+}
+
+header {
+  background-color: #d3dbcd;
+  min-height: 10vh;
+  padding: 0.1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  width: 100%;
+  text-align: center;
+}
+
+.emph {
+  font-family: "Cascadia Code";
+  user-select: none;
+  -moz-user-select: none;
+  text-transform: uppercase;
+}
+
+.card {
+  border-width: 0.2rem;
+}
+
+.answer-btn {
+  font-size: 1.5rem;
+}
